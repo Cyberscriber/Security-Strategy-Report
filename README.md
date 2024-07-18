@@ -1,7 +1,5 @@
 # Security-Strategy-Report
 
-<h1>Network Security & Compliance Lab</h1>
-
  <h2>Description</h2>
 Project consists of report that outlines a comprehensive security strategy to mitigate these risks, protect sensitive customer data, and ensure the company's resilience against evolving cyber threats
 <br />
