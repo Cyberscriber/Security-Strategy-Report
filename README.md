@@ -32,7 +32,7 @@ External Threats:<br/>
 <br/>
 <p align="center">
 
-<img src="https://imgur.com/a/3wPXEwp" height="80%" width="80%" alt="Threat Level"/>
+<img src="https://imgur.com/jLyJT9T" height="80%" width="80%" alt="Threat Level"/>
 <br />
 <br />  
 
