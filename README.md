@@ -1,7 +1,7 @@
 # Security-Strategy-Report
 
  <h2>Description</h2>
-Project consists of report that outlines a comprehensive security strategy to mitigate these risks, protect sensitive customer data, and ensure the company's resilience against evolving cyber threats
+Project consists of report that outlines a comprehensive security strategy to mitigate these risks, protects sensitive customer data, and ensure the company's resilience against evolving cyber threats
 <br />
 <h2>Fictional Company, Sam's Scoops </h2>
 
